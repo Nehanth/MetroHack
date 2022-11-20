@@ -29,9 +29,9 @@ img_lottie_animation = Image.open("images/img2.jpg")
 # st.title("Main Page")
 st.subheader("Welcome!")
 st_lottie(lottie_welcome, height=300, key="welcome")
-st.title("Find your disease just by uploading image of your hand or writing.")
+st.title("Find your disease just by your finger prints.")
 st.write("A single platform that will help you to find your disease and based on your location and your condition will recommend you the nearby hospital.")
-st.write("[Learn More >](https://google.com)")
+st.write("[Learn More >](https://www.hilarispublisher.com/open-access/relationship-between-deviated-fingerprint-distribution-and-vascular-factor-abnormality.pdf)")
 
 
 with st.container():
